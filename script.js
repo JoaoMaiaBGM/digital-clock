@@ -1,5 +1,5 @@
 function currentTime() {
-  const element = document.querySelector("h1");
+  const element = document.querySelector("span");
 
   let date = new Date();
 
